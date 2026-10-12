@@ -132,6 +132,7 @@ Image V2 is a practical web platform for AI image generation and editing, design
 * **[Upscayl](https://github.com/upscayl/upscayl)** - Free and open source AI image upscaler.
 * **[Magnific AI](https://magnific.ai/)** - High-end upscaler and detail enhancer (Paid).
 * **[ControlNet](https://github.com/lllyasviel/ControlNet)** - Neural network structure to control diffusion models.
+* **[QuietTake Noise Remover](https://noiseremover.site/)** - Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no signup or audio upload.
 
 ---
 
